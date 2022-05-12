@@ -16,7 +16,7 @@ log-symbols==0.0.14
 matplotlib==3.5.2
 mypy==0.941
 mypy-extensions==0.4.3
-numpy==1.22.3
+numpy<1.22.3
 opencv-contrib-python==4.5.5.64
 opencv-python==4.5.5.64
 packaging==21.3
